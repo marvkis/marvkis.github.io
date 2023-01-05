@@ -3,7 +3,7 @@ entries:
   chisel:
   - apiVersion: v2
     appVersion: 1.7.6
-    created: "2023-01-05T21:23:28.357326+01:00"
+    created: "2023-01-05T21:28:01.496915+01:00"
     description: A Helm chart for jpillora's Chisel
     digest: a93852efdecaed4b0ea81394dd15ee630a0130f02f9982da05dad8e48586efab
     keywords:
@@ -18,7 +18,7 @@ entries:
     version: 0.0.4
   secrets:
   - apiVersion: v2
-    created: "2023-01-05T21:23:28.357885+01:00"
+    created: "2023-01-05T21:28:01.497222+01:00"
     description: A Helm chart to create secret files with random passwords
     digest: ff4cfb03aeaf4430eb6350aaf3a36ef0e9c246850c79bad97380778df2dc4e61
     keywords:
@@ -31,9 +31,9 @@ entries:
   ziti-console:
   - apiVersion: v2
     appVersion: latest
-    created: "2023-01-05T21:23:28.358334+01:00"
+    created: "2023-01-05T21:28:01.497516+01:00"
     description: Deploy OpenZiti console as kubernetes service
-    digest: b3cabcdfeb89bc49887296525af12efc1167204f283887fafb060c561864f8c3
+    digest: 9812fcd909530491e6096cce13965be6466a54ca319d6a7faa9102ba28ee4c10
     name: ziti-console
     type: application
     urls:
@@ -42,7 +42,7 @@ entries:
   ziti-controller:
   - apiVersion: v2
     appVersion: 0.27.1
-    created: "2023-01-05T21:23:28.359039+01:00"
+    created: "2023-01-05T21:28:01.498181+01:00"
     description: Host OpenZiti controller on your cluster
     digest: 54bc9743a8447fcb1d20e2bc07fdbb36e1d1f8830492e1ad9ef88047489a6dde
     name: ziti-controller
@@ -53,7 +53,7 @@ entries:
   ziti-host:
   - apiVersion: v2
     appVersion: 0.20.13
-    created: "2023-01-05T21:23:28.359716+01:00"
+    created: "2023-01-05T21:28:01.500322+01:00"
     description: Host OpenZiti services with a tunneler pod
     digest: fad15bd28e3a2302f7df13eeb4d37ff375e5576ccf2a3c48b54b7d11302e3a8d
     name: ziti-host
@@ -64,12 +64,12 @@ entries:
   ziti-router:
   - apiVersion: v2
     appVersion: 0.27.1
-    created: "2023-01-05T21:23:28.360454+01:00"
+    created: "2023-01-05T21:28:01.500732+01:00"
     description: Host OpenZiti router as kubernetes service
-    digest: 3d4b9c77f60e1dd172aaec9501b9d5acecc1e0b2ab32e1807c681d269d5884a0
+    digest: a242ccf31a624c75bf3765b7466b48ec3b47213fe70ae9d4fc8d09cb5e0b1397
     name: ziti-router
     type: application
     urls:
     - https://marvkis.github.io/charts/ziti-router-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-05T21:23:28.355279+01:00"
+generated: "2023-01-05T21:28:01.496326+01:00"
