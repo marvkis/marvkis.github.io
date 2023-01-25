@@ -3,7 +3,7 @@ entries:
   chisel:
   - apiVersion: v2
     appVersion: 1.7.7
-    created: "2023-01-25T19:43:52.667965+01:00"
+    created: "2023-01-25T19:47:20.016274+01:00"
     description: A Helm chart for jpillora's Chisel
     digest: 5a6d8d71f260347db9d207e57d7d451f18d5fa7e8433aa7eac2eb23f6bcc12e7
     keywords:
@@ -19,7 +19,7 @@ entries:
   minio:
   - apiVersion: v1
     appVersion: RELEASE.2022-12-12T19-27-27Z
-    created: "2023-01-25T19:43:52.669473+01:00"
+    created: "2023-01-25T19:47:20.023741+01:00"
     description: Multi-Cloud Object Storage
     digest: ca0b3b24fe1186983353a8f9b53170e07adbbfe9ee948f19a9daa1e546f18c7b
     home: https://min.io
@@ -42,7 +42,7 @@ entries:
   s3www:
   - apiVersion: v2
     appVersion: v0.6.8
-    created: "2023-01-25T19:43:52.669976+01:00"
+    created: "2023-01-25T19:47:20.024598+01:00"
     description: A Helm chart to deploy s3www on Kubernetes
     digest: eef0bb804fdcd3e2159db5e942aab917ea1785d32624b2c986f03ba37680eeb8
     name: s3www
@@ -52,7 +52,7 @@ entries:
     version: 0.1.0
   secrets:
   - apiVersion: v2
-    created: "2023-01-25T19:43:52.671573+01:00"
+    created: "2023-01-25T19:47:20.02496+01:00"
     description: A Helm chart to create secret files with random passwords
     digest: ff4cfb03aeaf4430eb6350aaf3a36ef0e9c246850c79bad97380778df2dc4e61
     keywords:
@@ -65,7 +65,7 @@ entries:
   ziti-console:
   - apiVersion: v2
     appVersion: latest
-    created: "2023-01-25T19:43:52.672082+01:00"
+    created: "2023-01-25T19:47:20.02551+01:00"
     description: Deploy OpenZiti console as kubernetes service
     digest: 646800ca05797b13e29f71a199d93a1c69191ed68ae9832aa475b53ca182f25d
     name: ziti-console
@@ -76,7 +76,7 @@ entries:
   ziti-controller:
   - apiVersion: v2
     appVersion: 0.27.2
-    created: "2023-01-25T19:43:52.672727+01:00"
+    created: "2023-01-25T19:47:20.026188+01:00"
     description: Host OpenZiti controller on your cluster
     digest: 13dbe4a9e2427e82a5b7829b99c910c9bf9008f7e85f31a3f4a51056961913fe
     name: ziti-controller
@@ -87,9 +87,9 @@ entries:
   ziti-host:
   - apiVersion: v2
     appVersion: 0.20.18
-    created: "2023-01-25T19:43:52.673152+01:00"
+    created: "2023-01-25T19:47:20.027716+01:00"
     description: Host OpenZiti services with a tunneler pod
-    digest: e7ce84a478b135cb35bd8a111fab6ae0b05a29190dafbc6d9dea2bec72a7512b
+    digest: a8882fe4484239a40003b0c467d57b514789bae3146bf97515b386ee8ef94527
     name: ziti-host
     type: application
     urls:
@@ -98,7 +98,7 @@ entries:
   ziti-router:
   - apiVersion: v2
     appVersion: 0.27.2
-    created: "2023-01-25T19:43:52.677239+01:00"
+    created: "2023-01-25T19:47:20.029675+01:00"
     description: Host OpenZiti router as kubernetes service
     digest: 0613aafe802fba3f0009c811c2de7bb1c24e840024a6f62d2a10882ee25ecc7d
     name: ziti-router
@@ -106,4 +106,4 @@ entries:
     urls:
     - https://marvkis.github.io/charts/ziti-router-0.1.0.tgz
     version: 0.1.0
-generated: "2023-01-25T19:43:52.667183+01:00"
+generated: "2023-01-25T19:47:20.015406+01:00"
